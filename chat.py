@@ -25,7 +25,7 @@ def wczytaj_wiedze(path):
 app = FastAPI()
 
 # Ładujemy wiedzę (ścieżka do pliku)
-path_to_file = 'wiedza_wygenerowana.txt'
+path_to_file = 'wiedza.txt'
 wiedza = wczytaj_wiedze(path_to_file)  # Wczytujemy dane
 
 # Pytania wczytane z pliku
