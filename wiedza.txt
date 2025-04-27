@@ -1,0 +1,20 @@
+question: Role for Order entry
+answer: Order Entry role: GEJ-CO01-ORD_ENTR_VALID-GNPACT
+
+question: Role for Order Validation
+answer: Order Validation role: GEJ-CO03-ORD_VALIDATN__-GNPACT
+
+question: Role for Logistics Claim 
+answer: Logistics Claim role: GEJ-CS01-PRCNG_LOGI_CLM-GNPACT
+
+question: Role for Pricing Specialist 
+answer: Pricing Specialist role: GEJ-CS10-PRCNG_TEAM____-GNPACT
+
+question: Role for Digital Data Analyst 
+answer: Digital Data Analyst role: GEJ-CS02-PROCESS_CNTROL-GNPACT
+
+question: Role for French export team role: 
+answer: French export team role: GEJ-CS05-O2CHUB_E2E_EXP-GNPACT
+
+question: Role for Customer Master Data role: 
+answer: Customer Master Data role: GEJ-IC05-CUST_MD_SPCLST-GNPACT
