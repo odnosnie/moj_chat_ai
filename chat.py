@@ -26,7 +26,7 @@ class Query(BaseModel):
     question: str
 
 # Twoja wiedza:
-path_to_file = 'wiedza_wygenerowana.txt'
+path_to_file = 'wiedza.txt'
 def wczytaj_wiedze(path):
     qna = {}
     with open(path, 'r', encoding='utf-8') as file:
